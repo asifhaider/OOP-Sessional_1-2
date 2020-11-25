@@ -1,0 +1,4 @@
+1YX98J,2014,Black,White,,Toyota,RAV4,25000
+ABC132,2007,Yellow,,,Toyota,Corolla,5900
+38000,2012,Blue,Light Green,,Honda,Civic,9200
+123456,2016,Green,Blue,orange,Honda,Civic,235660
